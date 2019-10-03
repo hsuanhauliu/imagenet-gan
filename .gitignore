@@ -1,8 +1,9 @@
 # MacOS
 .DS_Store
 
-# model
+# model and labels
 models/
+labels/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
